@@ -1,0 +1,27 @@
+main{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1240px;
+    flex-direction: 1;
+    justify-content: space-between;
+}
+
+.main_info{
+width: 100%;
+max-width: 570px;
+}
+
+.main_info p{
+    font-size: 18px;
+    margin: 20px 0px 28px;
+}
+
+.main_info div{
+    display: flex;
+    column-gap: 32px;
+}
+
+.main_info div a, .main_info div button{
+    width: 100%;
+}
