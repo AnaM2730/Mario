@@ -13,13 +13,14 @@ header img{
     display: flex;
     align-items: center;
     column-gap: 48px;
+    list-style: none;/* style da lista */
 }
 
 .navigation_link{
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 2px; /* espaçamento entre as palavras */
-    text-rendering: ;
+    text-transform: uppercase;
 }
 
 
